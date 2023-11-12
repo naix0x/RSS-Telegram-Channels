@@ -43,6 +43,7 @@ Change RSS Feed URL (can search in google)
 
 and Change username your channels telegram
 `const response = await bot.sendMessage('@username_channels'`
+
 you can change with command below : 
 
 ```javascript
