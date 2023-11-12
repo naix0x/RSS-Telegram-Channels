@@ -36,6 +36,10 @@ apt install npm
 ```
 
 ```javascript
+npm install pm2
+```
+
+```javascript
 npm install node-telegram-bot-api rss-parser
 ```
 
@@ -49,5 +53,8 @@ nano main.js
 ```javascript
 node main.js
 ```
+7. For run nodejs in background
+```javascript
+npx pm2 start main.js
 
 This bot will fetch updates from the RSS feed every 1 minute. If there are new updates that have not been sent, the bot will send the updates to the specified Telegram channel.
