@@ -6,10 +6,9 @@ Welcome to the 📧 RSS feed posting in Telegram Channels, using nodejs used lib
 
 This Telegram bot is built using the following technologies:
 
-- 🐍 Nodejs - Language 
-- 🤖 pyTelegramBotAPI - Framework
-- ℹ️ SQLite3 - Database
-- 📨 1secmail.com - API
+- 🚀 Nodejs - Language 
+- 🤖 RSS Parser - Framework
+- 📨 RSS Feed - URL
 
 ## 🛠️ Installation and Usage
 
