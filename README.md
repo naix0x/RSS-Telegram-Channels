@@ -32,7 +32,7 @@ git clone https://github.com/naix0x/RSS-Telegram-Channels.git rss
 ```
 
 ```javascript
-cd ras
+cd rss
 ```
 
 Change Api Key Bot (can get in @botfather) 
