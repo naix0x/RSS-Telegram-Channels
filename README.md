@@ -36,7 +36,8 @@ cd rss
 ```
 
 Change Api Key Bot (can get in @botfather)
-'const telegramToken = 'YOUR_API_ BOT';`
+
+`const telegramToken = 'YOUR_API_ BOT';`
 
 Change RSS Feed URL (can search in google)
 `const rssFeedUrl = 'URL_RSS_FEED':`
