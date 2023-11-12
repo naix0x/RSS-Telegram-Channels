@@ -13,7 +13,6 @@ This Telegram bot is built using the following technologies:
 <p align="center">
   <img src="https://raw.githubusercontent.com/naix0x/RSS-Telegram-Channels/main/Screenshot_20231112-201523_Telegram.jpg" />
 </p>
----
 
 ## 🛠️ Installation and Usage
 
