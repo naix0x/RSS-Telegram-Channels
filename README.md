@@ -63,3 +63,15 @@ npx pm2 start main.js
 ```
 
 This bot will fetch updates from the RSS feed every 1 minute. If there are new updates that have not been sent, the bot will send the updates to the specified Telegram channel.
+
+## 🤝 Contributing
+
+If you find a bug or want to suggest a new feature, please open an issue or submit a pull request. Contributions are welcome and appreciated!
+
+## 📝 License
+
+This project is licensed under the [MIT License](https://github.com/naix0x/RSS-Telegram-Channels/blob/main/LICENSE).
+
+## 👥 Forks and Stars
+
+If you find this project useful, please give it a star ⭐ and consider forking it 🍴 to support its development and help it reach a wider audience.
