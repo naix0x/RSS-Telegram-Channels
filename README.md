@@ -10,6 +10,10 @@ apt-get update -y && apt-get upgrade -y
 ```
 
 ```javascript
+apt install git
+```
+
+```javascript
 apt install nodejs
 ```
 
@@ -17,4 +21,25 @@ apt install nodejs
 apt install npm
 ```
 
-'''javascript
+```javascript
+npm install node-telegram-bot-api rss-parser
+```
+
+# For running this bot
+
+```javascript
+git clone https://github.com/naix0x/RSS-Telegram-Channels.git rss
+```
+
+```javascript
+cd ras
+```
+
+Change Api Key Bot (can get in @botfather) 
+Change RSS Feed URL (can search in google)
+and Change Username your Channels Telegram
+You can change with cmd : 
+
+```javascript
+nano main.js
+```
