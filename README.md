@@ -1,64 +1,24 @@
 # RSS-Telegram-Channels
-RSS feed posting in Telegram Channels, using nodejs used library rss-parser.  This script can update RSS Feed per 1 minutes and anti duplicated checks send rss to channels telegram.
 
-# Requirements
+Welcome to the 📧 RSS feed posting in Telegram Channels, using nodejs used library rss-parser.  This script can update RSS Feed per 1 minutes and anti duplicated checks send rss to channels telegram.
 
-To run this bot, we need several requirements to run the script
+## 🚀 Technologies
 
-```javascript
-apt-get update -y && apt-get upgrade -y
-```
+This Telegram bot is built using the following technologies:
 
-```javascript
-apt install git
-```
+- 🐍 Nodejs - Language 
+- 🤖 pyTelegramBotAPI - Framework
+- ℹ️ SQLite3 - Database
+- 📨 1secmail.com - API
 
-```javascript
-apt install nodejs
-```
+## 🛠️ Installation and Usage
 
-```javascript
-apt install npm
-```
+To use this bot, follow these steps:
 
-```javascript
-npm install node-telegram-bot-api rss-parser
-```
+1. Clone the repository
+2. Install the required dependencies using `pip install -r requirements.txt`
+3. Create a new bot on Telegram using [BotFather](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
+4. Copy the bot token and add it to `config.py`
+5. Start the bot using `python main.py`
 
-# For running this bot
-
-```javascript
-git clone https://github.com/naix0x/RSS-Telegram-Channels.git rss
-```
-
-```javascript
-cd rss
-```
-
-Change line Api Key Bot (can get in @botfather)
-`const telegramToken = 'YOUR_API_ BOT';`
-
-Change line RSS Feed URL (can search in google)
-`const rssFeedUrl = 'URL_RSS_FEED':`
-
-and Change line username your channels telegram
-`const response = await bot.sendMessage('@username_channels'`
-
-you can change with command below : 
-
-```javascript
-nano main.js
-```
-
-after you already change, you can add your bot in your channels telegram, and set bot for admin
-
-Ready to run 
-
-```javascript
-node main.js
-```
-
-for running script in background 
-```javascript
-pm2 main.js
-```
+Once the bot is running, you can interact with it in Telegram by searching for the bot's username and sending it commands.`
