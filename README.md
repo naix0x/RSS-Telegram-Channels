@@ -37,9 +37,20 @@ cd ras
 
 Change Api Key Bot (can get in @botfather) 
 Change RSS Feed URL (can search in google)
-and Change Username your Channels Telegram
-You can change with cmd : 
+and Change username your channels telegram
+you can change with command below : 
 
 ```javascript
 nano main.js
+```
+
+and ready to run 
+
+```javascript
+node main.js
+```
+
+for running script in background 
+```javascript
+pm2 main.js
 ```
