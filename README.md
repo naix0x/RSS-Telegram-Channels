@@ -41,7 +41,7 @@ npm install node-telegram-bot-api rss-parser
 ```
 
 3. Create a new bot on Telegram using [BotFather](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
-4. Copy the bot token and add it to `config.py`
-5. Start the bot using `python main.py`
+4. Copy the bot token and add it to `main.js`
+5. Start the bot using `node main.py`
 
 Once the bot is running, you can interact with it in Telegram by searching for the bot's username and sending it commands.`
