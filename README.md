@@ -50,7 +50,9 @@ you can change with command below :
 nano main.js
 ```
 
-and ready to run 
+after you already change, you can add your bot in your channels telegram, and set bot for admin
+
+Ready to run 
 
 ```javascript
 node main.js
