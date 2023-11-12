@@ -35,14 +35,13 @@ git clone https://github.com/naix0x/RSS-Telegram-Channels.git rss
 cd rss
 ```
 
-Change Api Key Bot (can get in @botfather)
-
+Change line Api Key Bot (can get in @botfather)
 `const telegramToken = 'YOUR_API_ BOT';`
 
-Change RSS Feed URL (can search in google)
+Change line RSS Feed URL (can search in google)
 `const rssFeedUrl = 'URL_RSS_FEED':`
 
-and Change username your channels telegram
+and Change line username your channels telegram
 `const response = await bot.sendMessage('@username_channels'`
 
 you can change with command below : 
