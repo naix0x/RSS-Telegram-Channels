@@ -16,7 +16,30 @@ This Telegram bot is built using the following technologies:
 To use this bot, follow these steps:
 
 1. Clone the repository
-2. Install the required dependencies using `pip install -r requirements.txt`
+2. Install the required dependencies using 
+
+To run this bot, we need several requirements to run the script
+
+```javascript
+apt-get update -y && apt-get upgrade -y
+```
+
+```javascript
+apt install git
+```
+
+```javascript
+apt install nodejs
+```
+
+```javascript
+apt install npm
+```
+
+```javascript
+npm install node-telegram-bot-api rss-parser
+```
+
 3. Create a new bot on Telegram using [BotFather](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
 4. Copy the bot token and add it to `config.py`
 5. Start the bot using `python main.py`
