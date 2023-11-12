@@ -41,7 +41,13 @@ npm install node-telegram-bot-api rss-parser
 
 3. Create a new bot on Telegram using [BotFather](https://core.telegram.org/bots#3-how-do-i-create-a-bot)
 4. Copy the bot token, url rss, username channels and add it to `main.js`
+```javascript
+nano main.js
+```
 5. Add youre bot to channels and set admin
 6. Start the bot using `node main.py`
+```javascript
+node main.js
+```
 
 This bot will fetch updates from the RSS feed every 1 minute. If there are new updates that have not been sent, the bot will send the updates to the specified Telegram channel.
