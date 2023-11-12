@@ -2,6 +2,8 @@
 
 Welcome to the 📧 RSS feed posting in Telegram Channels, using nodejs used library rss-parser.  This script can update RSS Feed per 1 minutes and anti duplicated checks send rss to channels telegram.
 
+This Rss feed bot can also display instant views, making it easier for readers without having to open the browser again.
+
 ## 🚀 Technologies
 
 This Telegram bot is built using the following technologies:
