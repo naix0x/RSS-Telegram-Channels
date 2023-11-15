@@ -1,3 +1,13 @@
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/naix0x/chatgpt-python-bot/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/Armanidrisi/chatgpt-python-bot)
+![GitHub contributors](https://img.shields.io/github/contributors/Armanidrisi/chatgpt-python-bot)
+![GitHub last commit](https://img.shields.io/github/last-commit/Armanidrisi/chatgpt-python-bot)
+![GitHub forks](https://img.shields.io/github/forks/Armanidrisi/chatgpt-python-bot)
+![GitHub issues](https://img.shields.io/github/issues-raw/Armanidrisi/chatgpt-python-bot)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Armanidrisi/chatgpt-python-bot)
+![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/chatgpt-python-bot)
+
+
 # RSS-Telegram-Channels
 
 Welcome to the 📧 RSS feed posting in Telegram Channels, using nodejs used library rss-parser.  This script can update RSS Feed per 1 minutes and anti duplicated checks send rss to channels telegram.
