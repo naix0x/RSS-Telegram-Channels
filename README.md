@@ -1,11 +1,11 @@
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/naix0x/chatgpt-python-bot/blob/main/LICENSE)
-![GitHub repo size](https://img.shields.io/github/repo-size/Armanidrisi/chatgpt-python-bot)
-![GitHub contributors](https://img.shields.io/github/contributors/Armanidrisi/chatgpt-python-bot)
-![GitHub last commit](https://img.shields.io/github/last-commit/Armanidrisi/chatgpt-python-bot)
-![GitHub forks](https://img.shields.io/github/forks/Armanidrisi/chatgpt-python-bot)
-![GitHub issues](https://img.shields.io/github/issues-raw/Armanidrisi/chatgpt-python-bot)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Armanidrisi/chatgpt-python-bot)
-![GitHub stars](https://img.shields.io/github/stars/Armanidrisi/chatgpt-python-bot)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/naix0x/RSS-Telegram-Channels/blob/main/LICENSE)
+![GitHub repo size](https://img.shields.io/github/repo-size/naix0x/RSS-Telegram-Channels)
+![GitHub contributors](https://img.shields.io/github/contributors/naix0x/RSS-Telegram-Channels)
+![GitHub last commit](https://img.shields.io/github/last-commit/naix0x/RSS-Telegram-Channels)
+![GitHub forks](https://img.shields.io/github/forks/naix0x/RSS-Telegram-Channels)
+![GitHub issues](https://img.shields.io/github/issues-raw/naix0x/RSS-Telegram-Channels)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/naix0x/RSS-Telegram-Channels)
+![GitHub stars](https://img.shields.io/github/stars/naix0x/RSS-Telegram-Channels)
 
 
 # RSS-Telegram-Channels
