@@ -7,7 +7,6 @@
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/naix0x/RSS-Telegram-Channels)
 ![GitHub stars](https://img.shields.io/github/stars/naix0x/RSS-Telegram-Channels)
 
-
 # RSS-Telegram-Channels
 
 Welcome to the 📧 RSS feed posting in Telegram Channels, using nodejs used library rss-parser.  This script can update RSS Feed per 1 minutes and anti duplicated checks send rss to channels telegram.
